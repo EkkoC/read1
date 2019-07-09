@@ -15,3 +15,6 @@ https://github.com/NetEase/chatofpomelo-websocket
 
 
 https://itbilu.com/nodejs/npm/EknY6k0FX.html
+
+
+https://github.com/cschomer/angular-canvas-clock
