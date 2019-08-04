@@ -22,3 +22,4 @@ https://github.com/cschomer/angular-canvas-clock
 https://juejin.im/post/5b174f15e51d4506d47de2f0
 
 http://www.hubwiz.com/class/55c2c01e3ad79a1b05dcc432
+https://andrewpqc.github.io/2017/09/17/cookie-and-session-in-Express-use-redis-to-make-it-work-better/
