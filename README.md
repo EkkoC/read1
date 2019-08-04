@@ -25,3 +25,5 @@ http://www.hubwiz.com/class/55c2c01e3ad79a1b05dcc432
 https://andrewpqc.github.io/2017/09/17/cookie-and-session-in-Express-use-redis-to-make-it-work-better/
 .
 https://my.oschina.net/ilivebox/blog/281891
+
+https://blog.csdn.net/chszs/article/details/47081065
